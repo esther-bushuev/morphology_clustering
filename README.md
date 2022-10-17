@@ -45,7 +45,7 @@ Walbridge, S., Slocum, N., Pobuda, M., Wright, D.J. (2018). Unified Geomorpholog
 
 
 ## AUTHOR INFORMATION
-**Esther Bushuev** (B.Sc., MSc Candidate)
+**Esther Bushuev** (B.Sc., M.Sc. Candidate)
 
 *Seascape Ecology & Mapping Lab, Department of Oceanography, Dalhousie University*
 
