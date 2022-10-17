@@ -1,7 +1,7 @@
 # morphology_clustering
 Unsupervised classification of seafloor morphology using principle component analysis (PCA) and K-means clustering.
 
-October 17, 2022
+
 
 Esther Bushuev
 
@@ -9,6 +9,7 @@ Seascape Ecology & Mapping Lab, Department of Oceanography, Dalhousie University
 
 https://www.seafloormapping.ca/
 
+October 17, 2022
 
 ## PURPOSE
 This code performs an unsupervised classification of seafloor morphology using principle component analysis (PCA) and a K-means clustering algorithm.
