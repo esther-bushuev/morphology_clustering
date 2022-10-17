@@ -4,11 +4,11 @@ Unsupervised classification of seafloor morphology using principle component ana
 
 
 
-Esther Bushuev
+**Esther Bushuev
 
-Seascape Ecology & Mapping Lab, Department of Oceanography, Dalhousie University
+*Seascape Ecology & Mapping Lab, Department of Oceanography, Dalhousie University
 
-https://www.seafloormapping.ca/
+*https://www.seafloormapping.ca/
 
 October 17, 2022
 
